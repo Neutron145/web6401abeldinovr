@@ -1,0 +1,24 @@
+#header {
+	display: grid;
+	grid-template-columns: 92px 227px 152px;
+	gap: 9px;
+}
+
+.grid-main {
+	display: grid;
+	margin-left: 13%;
+	margin-right: 13%;
+	grid-template-rows: 130px 90% 10%
+}
+
+#main {
+	display: grid;
+	font-size: 23px;
+}
+
+
+#header {
+	display: grid;
+	grid-template-columns: 92px 227px 152px;
+	gap: 9px;
+}

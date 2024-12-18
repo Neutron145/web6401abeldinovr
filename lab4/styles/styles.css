@@ -1,0 +1,40 @@
+body {
+	background-color: rgb(237, 238, 240);
+	font-family: sans-serif;
+}
+
+figure{
+  line-height: 0;
+  text-align: center;
+}
+
+.text-main{
+	text-indent: 20px;
+}
+
+figcaption{
+	font-size: 18px;
+}
+
+hr {
+  width: 100%;
+}
+
+.button {
+	background: #ddd;
+	color: #000;
+	border-radius: 3px;
+	padding: 9px;
+	font-size: 19px;
+	text-decoration: none;
+	transition: 0.4s;
+}
+
+.button-grid {
+	max-height: 23px;
+}
+
+.button:hover {
+	transform: scale(1.07);
+	background: #C7C7C7
+}
